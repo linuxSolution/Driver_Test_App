@@ -1,0 +1,15 @@
+ocpp_server_ip=121.242.232.175
+ocpp_server_port=8081
+ocpp_server_path=/cims/websocketservices/ocpp1.6/15_1
+cbox_ser_no=CPD00001
+cpoint_ser_no=CPS01
+cpoint_vendor_id=DEL08
+iccid=ICCID09
+imsi=IMSI09
+meter_ser_no=Delta111
+input_min_voltage=90
+input_max_voltage=280
+cpoint_model_no=CPD01
+nozzle_max_temp=20
+firmware_ver=1.1
+meter_type=DC

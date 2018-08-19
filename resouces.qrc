@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/MainWindow"/>
+    <qresource prefix="/Digitalout"/>
+    <qresource prefix="/LedOut"/>
+    <qresource prefix="/Can_BMS"/>
+    <qresource prefix="/Energy_Mbus"/>
+    <qresource prefix="/CMs_Config"/>
+    <qresource prefix="/Adc_int"/>
+    <qresource prefix="/Adc_ext"/>
+    <qresource prefix="/Ethernet"/>
+    <qresource prefix="/Gsm"/>
+    <qresource prefix="/Rectifier_Setting"/>
+    <qresource prefix="/Din"/>
+    <qresource prefix="/Dhcp_static"/>
+    <qresource prefix="/Images"/>
+</RCC>
